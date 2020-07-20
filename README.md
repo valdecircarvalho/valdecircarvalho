@@ -1,4 +1,4 @@
-### Hello there 👋
+<!--### Hello there 👋
 My name is Val and I am 
 
 - 🤓Nerd 
@@ -12,7 +12,7 @@ My name is Val and I am
 - Blogger 
 - Speaker
 
-<!--
+
 **valdecircarvalho/valdecircarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
