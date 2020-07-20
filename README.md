@@ -1,5 +1,16 @@
 ### Hello there 👋
-I am Val!
+My name is Val and I am 
+
+ · 🤓Nerd 
+ · Father of Mari & João 
+ · 💻 Cloud Solutions Architect 
+ · Infra 
+ · Virtualization 
+ · Cloud 
+ · DevOps 
+ · ❤️Community Lover 
+ · Blogger 
+ · Speaker
 
 <!--
 **valdecircarvalho/valdecircarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
