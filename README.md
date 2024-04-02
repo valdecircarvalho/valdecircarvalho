@@ -1,6 +1,6 @@
-Hello! I'm Val,
-and I don't drink coffee!
-I am: Tech Tinkerer, Community Builder, Content Creator, Way Below Average Gamer, Father, and Proud Coffee Rebel
+# Hello! I'm Val
+## and I don't drink coffee!
+### I am: **Tech Tinkerer**, **Community Builder**, **Content Creator**, **Way Below Average Gamer**, **Father**, and **Proud Coffee Rebel**.
 from São Paulo, Brazil
 
 <!--
